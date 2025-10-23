@@ -1,4 +1,5 @@
-# <h1 align="center">Hi 👋, I'm Likith P Gowda</h1>
+# 
+<h1 align="center">Hi 👋, I'm Likith P Gowda</h1>
 <h3 align="center">🎓 2nd-Year B.E. Data Science Student</h3>
 
 💻 Learning: Python | SQL | Machine Learning  
