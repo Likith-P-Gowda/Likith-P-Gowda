@@ -1,5 +1,8 @@
-# 💫 About Me:
-2nd-Year B.E. Data Science Student | Learning Python, SQL & Machine Learning | Enjoy learning how Data and Security work together to Solve Real-world Problems.
+#          HI👋,I'am Likith P Gowda
+
+2nd-Year B.E. Data Science Student 
+Learning Python, SQL & Machine Learning 
+Enjoy learning how Data and Security work together to Solve Real-world Problems.
 
 
 ## 🌐 Socials:
