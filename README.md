@@ -1,5 +1,5 @@
 # 
-Hi 👋, I'm Likith P Gowda  
+<h1 align="center">Hi 👋, I'm Likith P Gowda</h1>
 
 🎓 2nd-Year B.E. Data Science Student  
 
