@@ -1,15 +1,6 @@
 <div align="center">
 
-```text
-██╗     ██╗██╗  ██╗██╗████████╗██╗  ██╗
-██║     ██║██║ ██╔╝██║╚══██╔══╝██║  ██║
-██║     ██║█████╔╝ ██║   ██║   ███████║
-██║     ██║██╔═██╗ ██║   ██║   ██╔══██║
-███████╗██║██║  ██╗██║   ██║   ██║  ██║
-╚══════╝╚═╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝
-```
-
-</div>
+# 👋 Hey, I'm LIKITH
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -17,50 +8,54 @@
 │   LIKITH                                   SYSTEM INFO        │
 │   ─────────────────────                    ───────────        │
 │                                                              │
-│   > Data Science Student                   OS        : Windows│
-│   > Developer                              Editor    : VS Code│
-│   > Problem Solver                         Shell     : Git     │
-│   > Builder                                Status    : Learning│
+│   👨‍💻 Data Science Student                  🖥️  OS       : Windows │
+│   💻 Developer                              💾 Editor   : VS Code │
+│   🧠 Problem Solver                         🌐 Web      : Active  │
+│   🚀 Builder                                📚 Status   : Learning│
 │                                                              │
-│                                           LANGUAGES            │
-│                                           ─────────            │
-│                                           Python               │
-│                                           JavaScript           │
-│                                           TypeScript            │
-│                                           SQL                  │
+│                                           LANGUAGES           │
+│                                           ─────────           │
+│                                           🐍 Python             │
+│                                           🟨 JavaScript         │
+│                                           🔷 TypeScript         │
+│                                           🗄️ SQL                │
+│                                           ☕ Java                │
+│                                           ⚡ C                   │
 │                                                              │
-│                                           TECHNOLOGIES         │
-│                                           ────────────         │
-│                                           React                │
-│                                           Next.js              │
-│                                           Node.js              │
-│                                           React Native         │
+│                                           TECHNOLOGIES        │
+│                                           ────────────        │
+│                                           ⚛️  React              │
+│                                           ▲  Next.js             │
+│                                           🟢 Node.js             │
+│                                           📱 React Native        │
+│                                           🌐 HTML                │
+│                                           🎨 CSS                 │
+│                                           🚂 Express              │
 │                                                              │
-│                                           DATABASES            │
-│                                           ─────────            │
-│                                           MongoDB              │
-│                                           MySQL                │
+│                                           DATABASES           │
+│                                           ─────────           │
+│                                           🍃 MongoDB             │
+│                                           🐬 MySQL               │
+│                                           🔥 Firebase             │
 │                                                              │
-│                                           TOOLS                │
-│                                           ─────                │
-│                                           Git                  │
-│                                           GitHub               │
-│                                           VS Code              │
-│                                           Docker               │
+│                                           TOOLS               │
+│                                           ─────               │
+│                                           🌿 Git                 │
+│                                           🐙 GitHub              │
+│                                           💻 VS Code             │
+│                                           🐳 Docker               │
+│                                           📦 npm                 │
+│                                           🐧 Linux                │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-<div align="center">
+### `> whoami`
 
-## `> whoami`
+**B.E. Data Science Student** • **Developer** • **Builder**
 
-**B.E. Data Science Student | Developer | Builder**
-
-Interested in **Data Science, AI, Machine Learning, and Full-Stack Development**.
-
-I like turning ideas into practical applications and continuously
-learning new technologies.
+I enjoy building practical applications, working with data,
+and exploring **AI, Machine Learning, and modern software development**.
 
 `Python` • `SQL` • `JavaScript` • `TypeScript` • `React` • `Next.js`
 
@@ -68,57 +63,188 @@ learning new technologies.
 
 ---
 
-## `> skills`
-
-```text
-Languages       → Python | JavaScript | TypeScript | SQL
-Frontend        → React | Next.js | React Native
-Backend         → Node.js | Express
-Databases       → MongoDB | MySQL
-Tools           → Git | GitHub | VS Code | Docker
-Interests       → Data Science | AI | ML | Software Development
-```
-
----
-
-## `> currently_learning`
-
-```text
-[01] Data Science
-[02] Machine Learning
-[03] Artificial Intelligence
-[04] Full-Stack Development
-[05] Backend Development
-[06] Open Source
-[07] Local AI & LLMs
-```
-
----
-
-## `> projects`
+## 🧠 `> currently_learning`
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│   PROJECTS                                                   │
-│   ────────                                                   │
+│   🧠 DATA SCIENCE                                            │
+│      └─ Data Analysis • Machine Learning • Statistics        │
 │                                                              │
-│   Building practical software projects while exploring      │
-│   Data Science, AI and modern development technologies.      │
+│   🤖 ARTIFICIAL INTELLIGENCE                                 │
+│      └─ AI • LLMs • Local AI                                 │
 │                                                              │
-│   Focus → Learning • Building • Experimenting               │
+│   💻 SOFTWARE DEVELOPMENT                                    │
+│      └─ Full-Stack • Backend • APIs                          │
+│                                                              │
+│   🌐 WEB DEVELOPMENT                                         │
+│      └─ React • Next.js • TypeScript                         │
+│                                                              │
+│   🌱 OPEN SOURCE                                             │
+│      └─ Git • GitHub • Open Source Projects                  │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `> connect`
+## 🛠️ `> tech_stack`
+
+### 💻 Languages
+
+<div align="left">
+
+🐍 **Python**  
+🟨 **JavaScript**  
+🔷 **TypeScript**  
+🗄️ **SQL**  
+☕ **Java**  
+⚡ **C**
+
+</div>
+
+### 🌐 Frontend
+
+<div align="left">
+
+⚛️ **React**  
+▲ **Next.js**  
+📱 **React Native**  
+🌐 **HTML**  
+🎨 **CSS**
+
+</div>
+
+### ⚙️ Backend
+
+<div align="left">
+
+🟢 **Node.js**  
+🚂 **Express.js**  
+🔌 **REST APIs**
+
+</div>
+
+### 🗄️ Databases
+
+<div align="left">
+
+🍃 **MongoDB**  
+🐬 **MySQL**  
+🔥 **Firebase**
+
+</div>
+
+### 🔧 Tools
+
+<div align="left">
+
+🌿 **Git**  
+🐙 **GitHub**  
+💻 **VS Code**  
+🐳 **Docker**  
+📦 **npm**  
+🐧 **Linux**
+
+</div>
+
+---
+
+## 🚀 `> what_i_build`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   💻 SOFTWARE PROJECTS                                       │
+│      Building practical applications and experimenting      │
+│      with modern technologies.                               │
+│                                                              │
+│   📊 DATA PROJECTS                                           │
+│      Exploring data analysis, machine learning and          │
+│      data-driven solutions.                                  │
+│                                                              │
+│   🤖 AI PROJECTS                                             │
+│      Exploring artificial intelligence, LLMs and             │
+│      local AI technologies.                                  │
+│                                                              │
+│   🌐 WEB APPLICATIONS                                        │
+│      Creating modern web applications with React,            │
+│      Next.js and TypeScript.                                 │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📊 `> skills`
+
+```text
+DATA
+├── 🐍 Python
+├── 📊 Data Analysis
+├── 🧮 Statistics
+└── 🤖 Machine Learning
+
+DEVELOPMENT
+├── ⚛️ React
+├── ▲ Next.js
+├── 🟢 Node.js
+├── 🔷 TypeScript
+└── 📱 React Native
+
+DATABASES
+├── 🍃 MongoDB
+├── 🐬 MySQL
+└── 🔥 Firebase
+
+TOOLS
+├── 🌿 Git
+├── 🐙 GitHub
+├── 💻 VS Code
+├── 🐳 Docker
+└── 🐧 Linux
+```
+
+---
+
+## 🎯 `> interests`
+
+```text
+🧠 Data Science
+🤖 Artificial Intelligence
+📊 Machine Learning
+💻 Software Development
+🌐 Full-Stack Development
+⚙️ Backend Development
+📱 Mobile Development
+🔓 Open Source
+```
+
+---
+
+## 📚 `> learning_mode`
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│       LEARN → BUILD → TEST → IMPROVE        │
+│                                              │
+│       💡 Learn something new                 │
+│       🔨 Build something with it             │
+│       🧪 Experiment and break things         │
+│       🚀 Improve and build again             │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+## 🔗 `> connect`
 
 <div align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -128,11 +254,13 @@ Interests       → Data Science | AI | ML | Software Development
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║             LEARN • BUILD • IMPROVE              ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────┐
+│                                              │
+│          💻 BUILD • 🧠 LEARN • 🚀 GROW       │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
+
+⭐ **Thanks for visiting my profile!**
 
 </div>
