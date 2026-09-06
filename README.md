@@ -118,7 +118,7 @@
 │                                                    │
 │   🔐 SECURITY                                      │
 │      └─ Interested in Data Security                │
-│      └─ Exploring the connection between          │
+│      └─ Exploring the connection between           │
 │         Data, AI and Security                      │
 │                                                    │
 └────────────────────────────────────────────────────┘
