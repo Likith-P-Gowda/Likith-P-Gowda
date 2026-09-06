@@ -23,12 +23,12 @@
 │                                                         │
 │ TECHNOLOGIES                          DATABASE          │
 │ 🌐 HTML5                              🐬 MySQL         │
-│ 📊 Power BI                                             
-│ ☁️ AWS  •  Azure  •  Google Cloud                       
+│ 📊 Power BI                                            |
+│ ☁️ AWS  •  Azure  •  Google Cloud                      |
 │ 🐍 Anaconda  •  🎮 NVIDIA                              |
 │                                                         │
 │ TOOLS                                                   │
-│ 🌿 Git  •  🐙 GitHub  •  🎨 Canva                      
+│ 🌿 Git  •  🐙 GitHub  •  🎨 Canva                      |
 │ 🖼️ Photoshop  •  📸 Lightroom                          │
 └─────────────────────────────────────────────────────────┘
 ```
