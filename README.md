@@ -28,7 +28,7 @@
 │ 🐍 Anaconda  •  🎮 NVIDIA                              |
 │                                                         │
 │ TOOLS                                                   │
-│ 🌿 Git  •  🐙 GitHub  •  🎨 Canva                     |
+│ 🌿 Git  •  🐙 GitHub  •  🎨 Canva                      |
 │ 🖼️ Photoshop  •  📸 Lightroom                          │
 └─────────────────────────────────────────────────────────┘
 ```
