@@ -109,20 +109,19 @@
 ## 🔐 Data & Security
 
 ```text
-┌────────────────────────────────────────────────────┐
-│                                                                                                                                         │
-│   📊 DATA                                       										   │
-│      └─ Data Analysis                      										   │
-│      └─ Machine Learning                    							                   │
-│      └─ Data Visualization                					                                           │
-│                                                    											   │
-│   🔐 SECURITY                                    								           │
-│      └─ Interested in Data Security       							                   │
-│      └─ Exploring the connection between          					                      	   │
-│         Data, AI and Security                      				                                           │			
-│                                                  											   │			
-└────────────────────────────────────────────────────┘
-```
+┌──────────────────────────────────────────────┐
+│                                              │
+│   📊 DATA                                    │
+│      └─ Data Analysis                        │
+│      └─ Machine Learning                     │
+│      └─ Data Visualization                   │
+│                                              │
+│   🔐 SECURITY                                │
+│      └─ Interested in Data Security          │
+│      └─ Exploring the connection between     │
+│         Data, AI and Security                │
+│                                              │
+└──────────────────────────────────────────────┘
 
 ---
 
