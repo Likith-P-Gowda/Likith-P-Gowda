@@ -111,12 +111,12 @@
 ```text
 ┌────────────────────────────────────────────────────┐
 │                                                    │
-│   📊 DATA                                          │
+│   📊 DATA                                         │
 │      └─ Data Analysis                              │
 │      └─ Machine Learning                           │
 │      └─ Data Visualization                         │
 │                                                    │
-│   🔐 SECURITY                                      │
+│   🔐 SECURITY                                     │
 │      └─ Interested in Data Security                │
 │      └─ Exploring the connection between           │
 │         Data, AI and Security                      │
