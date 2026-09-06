@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Likith P Gowda</h1>
 
-<h3 align="center">🎓 2nd-Year B.E. Data Science Student</h3>
+<h3 align="center">🎓 Bachelor of Engineering Student in Data Science</h3>
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 │ 🧠 Problem Solver                     🌐 Data          │
 │ 🚀 Builder                            🔐 Security      │
 │                                                         |
-│ LANGUAGES                             DATA & AI         | 
+ │ LANGUAGES                             DATA & AI         | 
 │ 🐍 Python                             🐼 Pandas        │
 │ ⚡ C / C++                            🔢 NumPy         │
 │ ☕ Java                               📊 Matplotlib    │
