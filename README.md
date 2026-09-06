@@ -5,58 +5,32 @@
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   👨‍💻 LIKITH P GOWDA                         SYSTEM INFO      │
-│   ─────────────────────                    ─────────────     │
-│                                                              │
-│   🎓 Data Science Student                    🖥️ OS      : Windows │
-│   💻 Developer                               💻 Editor  : VS Code │
-│   🧠 Problem Solver                          🌐 Focus   : Data   │
-│   🚀 Builder                                🔐 Interest : Security│
-│                                                              │
-│                                           LANGUAGES           │
-│                                           ─────────           │
-│                                           🐍 Python             │
-│                                           ⚡ C                  │
-│                                           ⚡ C++                │
-│                                           ☕ Java                │
-│                                           🟨 JavaScript          │
-│                                           🔷 TypeScript          │
-│                                           🗄️ SQL                 │
-│                                                              │
-│                                           DATA & AI            │
-│                                           ─────────            │
-│                                           🐼 Pandas              │
-│                                           🔢 NumPy               │
-│                                           📊 Matplotlib          │
-│                                           🤖 Scikit-Learn        │
-│                                           🔥 TensorFlow          │
-│                                           🔥 PyTorch             │
-│                                                              │
-│                                           TECHNOLOGIES         │
-│                                           ────────────         │
-│                                           🌐 HTML5              │
-│                                           📊 Power BI            │
-│                                           ☁️ AWS                 │
-│                                           ☁️ Azure               │
-│                                           ☁️ Google Cloud        │
-│                                           🐍 Anaconda             │
-│                                           🎮 NVIDIA              │
-│                                                              │
-│                                           DATABASE             │
-│                                           ────────             │
-│                                           🐬 MySQL               │
-│                                                              │
-│                                           TOOLS                │
-│                                           ─────                │
-│                                           🌿 Git                 │
-│                                           🐙 GitHub              │
-│                                           🎨 Canva               │
-│                                           🖼️ Photoshop            │
-│                                           📸 Lightroom            │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────┐
+│ 👨‍💻 LIKITH P GOWDA                    SYSTEM INFO       |
+│ ───────────────────                   ───────────       |
+│ 🎓 Data Science Student               🖥️ Windows       |
+│ 💻 Developer                          💻 VS Code       │
+│ 🧠 Problem Solver                     🌐 Data          │
+│ 🚀 Builder                            🔐 Security      │
+│                                                         |
+│ LANGUAGES                             DATA & AI         | 
+│ 🐍 Python                             🐼 Pandas        │
+│ ⚡ C / C++                            🔢 NumPy         │
+│ ☕ Java                               📊 Matplotlib    │
+│ 🟨 JavaScript                         🤖 Scikit-Learn  │
+│ 🔷 TypeScript                         🔥 TensorFlow    │
+│ 🗄️ SQL                                🔥 PyTorch       │
+│                                                         │
+│ TECHNOLOGIES                          DATABASE          │
+│ 🌐 HTML5                              🐬 MySQL         │
+│ 📊 Power BI                                             
+│ ☁️ AWS  •  Azure  •  Google Cloud                       
+│ 🐍 Anaconda  •  🎮 NVIDIA                              |
+│                                                         │
+│ TOOLS                                                   │
+│ 🌿 Git  •  🐙 GitHub  •  🎨 Canva                      
+│ 🖼️ Photoshop  •  📸 Lightroom                          │
+└─────────────────────────────────────────────────────────┘
 ```
 
 </div>
