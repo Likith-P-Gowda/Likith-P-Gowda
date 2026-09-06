@@ -1,24 +1,235 @@
-# 
-<h1 align="center">Hi 👋, I'm Likith P Gowda</h1>
-<h3 align="center">🎓 2nd-Year B.E. Data Science Student</h3>
+<div align="center">
 
-💻 Learning: Python | SQL | Machine Learning  
-🔐 Fascinated by how Data & Security work together  
-🚀 Constantly exploring, learning, and building new skills  
- 
+```text
+██╗     ██╗██╗  ██╗██╗████████╗██╗  ██╗
+██║     ██║██║ ██╔╝██║╚══██╔══╝██║  ██║
+██║     ██║█████╔╝ ██║   ██║   ███████║
+██║     ██║██╔═██╗ ██║   ██║   ██╔══██║
+███████╗██║██║  ██╗██║   ██║   ██║  ██║
+╚══════╝╚═╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝
+```
 
+</div>
 
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║   LIKITH                                           SYSTEM INFO      ║
+║   ─────────────────────                          ───────────────    ║
+║                                                                    ║
+║   > Data Science Student                         OS        : Windows║
+║   > Developer                                    Editor    : VS Code║
+║   > Builder                                      Shell     : Git Bash║
+║   > Open Source Enthusiast                       Terminal  : PowerShell
+║                                                                    ║
+║                                                Languages             ║
+║                                                ─────────             ║
+║                                                Python                ║
+║                                                JavaScript            ║
+║                                                TypeScript             ║
+║                                                SQL                   ║
+║                                                                    ║
+║                                                Technologies          ║
+║                                                ────────────          ║
+║                                                React                 ║
+║                                                Next.js               ║
+║                                                React Native           ║
+║                                                Node.js               ║
+║                                                                    ║
+║                                                Databases             ║
+║                                                ─────────             ║
+║                                                MongoDB               ║
+║                                                MySQL                 ║
+║                                                                    ║
+║                                                Tools                 ║
+║                                                ─────                 ║
+║                                                Git                   ║
+║                                                GitHub                ║
+║                                                VS Code               ║
+║                                                Docker                ║
+║                                                                    ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.gg/uzYaTds9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/likith-p-gowda-692327353) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JUST__LIKITH__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:likithp3000@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Likith-P-Gowda&theme=aura&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Likith-P-Gowda&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Likith-P-Gowda&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+### `> whoami`
+
+**B.E. Data Science Student** • **Developer** • **Builder**
+
+I enjoy building real-world applications, working with data,
+and exploring AI, backend systems, and modern web technologies.
+
+<br>
+
+`Python` • `SQL` • `TypeScript` • `JavaScript` • `React` • `Next.js`
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Likith-P-Gowda&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🧠 Currently Learning
+
+```text
+┌───────────────────────────────────────────────┐
+│                                               │
+│  [01] Data Science & Machine Learning         │
+│  [02] Full-Stack Development                  │
+│  [03] Backend Development                     │
+│  [04] AI & Local LLMs                         │
+│  [05] System Design                            │
+│  [06] Open Source Contribution                │
+│                                               │
+└───────────────────────────────────────────────┘
+```
+
+---
+
+## ⚙️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
+![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+
+---
+
+## 🚀 Projects
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  🌱 SMART AGRICULTURE                                   │
+│                                                          │
+│  IoT-based agriculture system for monitoring             │
+│  environmental conditions and controlling devices.       │
+│                                                          │
+│  ESP32 • Sensors • APIs • IoT • Automation               │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  📊 DATA SCIENCE PROJECTS                                │
+│                                                          │
+│  Exploring data analysis, machine learning and           │
+│  practical data-driven applications.                     │
+│                                                          │
+│  Python • SQL • Machine Learning                         │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  💻 FULL-STACK APPLICATIONS                              │
+│                                                          │
+│  Building modern web and mobile applications             │
+│  using modern JavaScript/TypeScript stacks.              │
+│                                                          │
+│  Next.js • React • React Native • Node.js                │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=LIKITH&show_icons=true&theme=dark&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIKITH&layout=compact&theme=dark&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=LIKITH&theme=dark&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+```text
+[✓] Learn and build with modern development tools
+[✓] Work on real-world projects
+[ ] Contribute more to Open Source
+[ ] Build larger full-stack applications
+[ ] Improve Data Science & ML skills
+[ ] Build and deploy production-ready projects
+[ ] Learn more about AI & LLMs
+```
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=LIKITH&theme=dark)](https://github.com/LIKITH)
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LIKITH)
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║       "BUILD • LEARN • BREAK • REPEAT"       ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
